@@ -1,13 +1,12 @@
 {
-  "name": "@graasp/sdk",
-  "version": "5.5.0",
+  "name": "@lnco-ai/sdk",
+  "version": "1.0.0",
   "description": "Development kit including type definitions and util functions for the Graasp ecosystem.",
   "license": "AGPL-3.0-only",
-  "repository": "git@github.com:graasp/graasp-sdk.git",
-  "author": "Graasp",
+  "repository": "git@github.com:lnco-epfl/lnco-ai-sdk.git",
+  "author": "LNCO AI TEAM",
   "contributors": [
-    "Kim Lan Phan Hoang",
-    "Basile Spaenlehauer"
+    "Yannick Mijsters"
   ],
   "type": "module",
   "sideEffects": false,
