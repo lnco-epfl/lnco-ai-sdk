@@ -74,6 +74,10 @@ export type ScreenCalibration = {
   scale?: number;
   /** Font size preset provided by the host environment. */
   fontSize?: 'small' | 'normal' | 'large' | 'extra-large';
+  /** Participant ID for automatic linking to previous sessions */
+  participantId?: UUID;
+  /** Participant Code for manual linking */
+  participantCode?: string;
 };
 
 export type LocalContext = {
